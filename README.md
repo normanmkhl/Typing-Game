@@ -1,5 +1,5 @@
 # Typing-Game
 
-Speed Typing game in vanilla Javascript 
+Speed Typing game implemented in vanilla Javascript 
 
 link: https://normanmkhl.github.io/Typing-Game/.
